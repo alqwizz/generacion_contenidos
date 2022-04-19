@@ -1,0 +1,53 @@
+<!--  question: N_CUESTION   -->
+<question type="matching">
+<name>
+<text>Unir preguntas y respuestas</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[ <p dir="ltr" style="text-align: left;">Une cada pregunta con su respuesta correcta</p> ]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text/>
+</generalfeedback>
+<defaultgrade>1.0000000</defaultgrade>
+<penalty>0.5000000</penalty>
+<hidden>0</hidden>
+<idnumber/>
+<shuffleanswers>true</shuffleanswers>
+<correctfeedback format="html">
+<text>Respuesta correcta</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+<text>Respuesta parcialmente correcta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+<text>Respuesta incorrecta.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+<subquestion format="html">
+<text>
+<![CDATA[ <p dir="ltr" style="text-align: left;">ENUNCIADO_1</p> ]]>
+</text>
+<answer>
+<text>RESPUESTA_1</text>
+</answer>
+</subquestion>
+<subquestion format="html">
+<text>
+<![CDATA[ <p dir="ltr" style="text-align: left;">ENUNCIADO_2</p> ]]>
+</text>
+<answer>
+<text>RESPUESTA_2</text>
+</answer>
+</subquestion>
+<subquestion format="html">
+<text>
+<![CDATA[ <p dir="ltr" style="text-align: left;">ENUNCIADO_3</p> ]]>
+</text>
+<answer>
+<text>RESPUESTA_3</text>
+</answer>
+</subquestion>
+</question>

@@ -1,0 +1,54 @@
+<!-- question: N_CUESTION  -->
+  <question type="multichoice">
+    <name>
+      <text>TITULO_DE_PREGUNTA</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">ENUNCIADO_DE_PREGUNTA</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>iii</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Respuesta correcta</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Respuesta parcialmente correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Respuesta incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="FRACCION_1" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">RESPUESTA_1</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="FRACCION_2" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">RESPUESTA_2</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="FRACCION_3" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">RESPUESTA_3</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="FRACCION_4" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">RESPUESTA_4</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>

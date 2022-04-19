@@ -1,0 +1,35 @@
+<!-- question: N_CUESTION  -->
+  <question type="shortanswer">
+    <name>
+      <text>TITULO_DE_PREGUNTA</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">ENUNCIADO_DE_PREGUNTA</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="FRACCION_1" format="moodle_auto_format">
+      <text>RESPUESTA_1</text>
+      <feedback format="html">
+        <text><![CDATA[<p dir="ltr" style="text-align: left;">Genial</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="FRACCION_2" format="moodle_auto_format">
+      <text>RESPUESTA_2</text>
+      <feedback format="html">
+        <text><![CDATA[<p dir="ltr" style="text-align: left;">Parcialmente correcto</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="FRACCION_3" format="moodle_auto_format">
+      <text>RESPUESTA_3</text>
+      <feedback format="html">
+        <text><![CDATA[<p dir="ltr" style="text-align: left;">Respuesta errónea</p>]]></text>
+      </feedback>
+    </answer>
+  </question>

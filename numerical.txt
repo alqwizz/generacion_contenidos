@@ -1,0 +1,27 @@
+<!-- question: N_CUESTION -->
+  <question type="numerical">
+    <name>
+      <text>TITULO_DE_PREGUNTA</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">ENUNCIADO_DE_PREGUNTA</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="FRACCION_1" format="moodle_auto_format">
+      <text>NUMERO</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.05</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
